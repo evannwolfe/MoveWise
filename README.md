@@ -12,4 +12,10 @@ MoveWise functions independently and does not require an internet connection for
 ### App Store & Legal Compliance  
 Even though MoveWise does not collect data, MoveWise complies with applicable privacy laws, including the Apple App Store Privacy Guidelines.  
 
+### **Support**  
+If you need assistance, have questions, or want to report a bug, you can:  
+
+👉 **Submit a support request here:** [Get Support](https://github.com/evannwolfe/MoveWise/issues)
+
+
 <sub>Last Updated: 1/30/2025</sub>
